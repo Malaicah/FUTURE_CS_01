@@ -24,3 +24,11 @@ Passive Vulnerability Assessment of live website as part of the Future Interns C
 
 ### Medium Risk Findings
 - Content Security Policy allows `'unsafe-inline'` for both scripts and styles, weakening protection against XSS attacks.
+
+## Full Report
+**[Download ZAP_Nexactf.tech_report] (./Vulnerability Assessment Report.pdf)**
+
+## Detailed Findings
+see [Findings.md] (./Findings.md0 for a complete technical detail and remediation steps.
+
+## Repository Structure
