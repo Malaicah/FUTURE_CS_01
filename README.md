@@ -5,6 +5,7 @@ Passive Vulnerability Assessment of live website as part of the Future Interns C
 
 ## Websites Assessed
 - **https://nexactf.tech**
+- **https://example.com**
 
 ## Tools Used
 - **Nmap** - A Network reconnaissance and service/version detection
@@ -31,4 +32,15 @@ Passive Vulnerability Assessment of live website as part of the Future Interns C
 ## Detailed Findings
 see [Findings.md] (./Findings.md0 for a complete technical detail and remediation steps.
 
-## Repository Structure
+## Conclusion
+
+This passive vulnerability assessment successfully identified one critical vulnerability (SQL Injection) and several important security misconfigurations on the tested websites. 
+
+While `example.com` showed only basic configuration issues, `nexactf.tech` requires urgent attention due to the High-risk SQL Injection vulnerability. 
+
+Addressing these findings by implementing proper input validation, strengthening Content Security Policy, and adding essential security headers will significantly improve the security posture of the websites and reduce potential cyber risks.
+
+---
+
+**Completed as part of Future Interns Cyber Security Track**  
+**Date:** 7th of May 2026
