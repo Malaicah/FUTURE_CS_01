@@ -1,4 +1,4 @@
-# Future_CS_01 - Vulnerability Web Assessment Report
+# Future_CS_01 - Vulnerability Web & Assessment Report
 
 ## Task Overview
 Passive Vulnerability Assessment of live website as part of the Future Interns Cyber Security Track.
