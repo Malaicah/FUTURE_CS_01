@@ -29,6 +29,9 @@ Passive Vulnerability Assessment of live website as part of the Future Interns C
 ## Full Report
 **[Download ZAP_Nexactf.tech_report] (./Vulnerability Assessment Report.pdf)**
 
+## Full Report
+**[📄 Download Full Vulnerability Assessment Report](./Vulnerability Assessment Report.pdf)**
+
 ## Detailed Findings
 see [Findings.md] (./Findings.md for a complete technical detail and remediation steps.)
 
