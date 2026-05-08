@@ -1,4 +1,4 @@
-# Detailed Findings - Vulnerability Assessment
+# Detailed Findings - Vulnerability Web Assessment
 
 **Websites Scanned:**  
 - https://nexactf.tech  
