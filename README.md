@@ -27,10 +27,10 @@ Passive Vulnerability Assessment of live website as part of the Future Interns C
 - Content Security Policy allows `'unsafe-inline'` for both scripts and styles, weakening protection against XSS attacks.
 
 ## Full Report
-**[Download ZAP_Nexactf.tech_report] (./Vulnerability Assessment Report.pdf)**
+**[Download ZAP_Nexactf.tech_report] (./Vulnerability_Assessment_Report.pdf)**
 
 ## Full Report
-**[📄 Download Full Vulnerability Assessment Report](./Vulnerability Assessment Report.pdf)**
+**[📄 Download Full Vulnerability Assessment Report](./Vulnerability_Assessment_Report.pdf)**
 
 ## Detailed Findings
 see [Findings.md] (./Findings.md for a complete technical detail and remediation steps.)
